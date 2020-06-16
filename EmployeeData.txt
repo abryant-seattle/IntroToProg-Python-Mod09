@@ -1,0 +1,8 @@
+1,Bob,Smith
+2,Sue,Jones
+3,Alexander,Bryant
+4,Jay,Inslee
+5,Maria,Cantwell
+6,Pramila,Jayapal
+7,Jeff,Bezos
+8,Bill,Gates
