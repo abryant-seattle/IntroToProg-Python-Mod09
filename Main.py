@@ -7,7 +7,7 @@
 # RRoot,1.1.2030,Added pseudo-code to start assignment 9
 # ABryant,6.13.2020,Modified and imported DataClasses, IOClasses, and Processing Classes modules
 # ABryant,6.14.2020,Removed try-except block after modifying the employee class
-# ABryant,6.15.2020,
+# ABryant,6.15.2020,Captured demo images in PyCharm and Command Line, tidied for Git push
 # ------------------------------------------------------------------------ #
 
 if __name__ == "__main__":
